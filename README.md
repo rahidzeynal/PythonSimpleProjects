@@ -1,2 +1,3 @@
 # PythonTurtleGame
-Demo version of my python turtle game
+Demo version of some simple python projects.
+All projects may be contain bugs.
